@@ -1,9 +1,13 @@
-# Build during development
+Build during development
+========================
+
 ```bash
 npm start
 ```
 
-# Build for distribution:
+
+Build for distribution
+======================
 
 Install `electron-packager`:
 ```bash
