@@ -16,5 +16,5 @@ npm install -g electron-packager
 
 And then run:
 ```bash
-electron-packager . "Becklyn Studios Telefonanlage" --platform=darwin --arch=x64
+electron-packager . "Your app name" --platform=darwin --arch=x64
 ```
